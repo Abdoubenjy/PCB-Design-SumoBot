@@ -4,7 +4,7 @@ created in KiCad. It's a 2-layer PCB with microcontroller MSP430G2553IPW28,
 regulators 3.3V (AMS1117-3.3) and 5V (MP2359), two motor drivers TB6612FNG, IR receiver TSP382, and
 circuit protection (RS3E075AT).
 
-<img src="/imgs/schematic.png">
+<img src="/imgs/schematic.jpg">
 
 <img src="/imgs/pcb.png">
 
