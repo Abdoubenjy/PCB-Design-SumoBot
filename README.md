@@ -1,5 +1,5 @@
 # Sumo hardware
-This repository contains the schematic and PCB design a mini-class Sumobot (500g 10x10cm),
+This repository contains the schematic and PCB design of a mini-class Sumobot (500g 10x10cm),
 created in KiCad. It's a 2-layer PCB with microcontroller MSP430G2553IPW28,
 regulators 3.3V (AMS1117-3.3) and 5V (MP2359), two motor drivers TB6612FNG, IR receiver TSP382, and
 circuit protection (RS3E075AT).
